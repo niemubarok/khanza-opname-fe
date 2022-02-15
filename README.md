@@ -7,8 +7,6 @@ aplikasi stok opname untuk simrs khanza
 
 ![image](https://user-images.githubusercontent.com/39018645/154034821-506560a7-a47d-4792-bb1a-0d781750f946.png)
 
-![image](https://user-images.githubusercontent.com/39018645/154034729-8a44919b-bcef-4188-9be9-8d6342d2727a.png)
-
 ![image](https://user-images.githubusercontent.com/39018645/154034969-8c3c36fc-e207-458c-b568-5d2c295771ee.png)
 
 ![image](https://user-images.githubusercontent.com/39018645/154035068-6419ba70-62e6-45d2-b44a-f2b46bfbfd31.png)
