@@ -26,8 +26,10 @@ https://github.com/niemubarok/khanza-opname-be
 ```bash
 npm install
 ```
+## Install Quasar CLI SEE https://quasar.dev/quasar-cli/installation
+npm install -g @quasar/cli
 
-### 4. Start the app in development mode (hot-code reloading, error reporting, etc.)
+## 4. Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
 ```
