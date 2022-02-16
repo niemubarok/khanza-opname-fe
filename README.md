@@ -1,4 +1,4 @@
-# opname_frontend (opname_frontend)
+# SIMPLE STOK OPNAME
 
 aplikasi stok opname untuk simrs khanza dibuat menggunakan vue.js dengan framework quasar
 
